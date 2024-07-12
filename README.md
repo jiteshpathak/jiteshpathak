@@ -7,6 +7,7 @@ I am a Computer Science Engineer with a knack for writing. I have participated i
 ## 🌟 Key Highlights
 - **Hackathon Participation**: Engaged in 2 hackathons.
 - **IITB FOSSX Contest**: Shortlisted in the top 11 from over 300 participants in the cybersecurity domain.
+- **Organizer of TEDxTCET 2024**
 
 ## 💼 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
