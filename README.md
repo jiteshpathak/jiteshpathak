@@ -1,6 +1,6 @@
 # Hi 👋 My name is Jitesh Pradeep Pathak
 
-![LinkedIn](https://img.shields.io/badge/Connect-with%20me-blue?style=flat-square&logo=linkedin&link[https://www.linkedin.com/in/jitesh-pathak])
+[![LinkedIn](https://img.shields.io/badge/Connect-with%20me-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jitesh-pathak)
 
 I am a Computer Science Engineer with a knack for writing. I have participated in 2 hackathons and was shortlisted among the top 11 from over 300 participants in the IITB FOSSX contest in the cybersecurity domain.
 
